@@ -1,5 +1,5 @@
 # Welcome to a Basic Cypher Guide
-Cypher is arguably one of the best agents in Valorant right now. However, many people fail to get the highest value out of him, and this guide is dedicated to teaching new users and verterans alike the ins and outs of playing Cypher.
+Cypher is arguably one of the best agents in Valorant right now. However, many people fail to get the highest value out of him, and this guide is dedicated to teaching new users and veterans alike the ins and outs of playing Cypher.
 
 ![Cypher](https://cdn.earlygame.com/uploads/images/_imageBlock/cypher-valorant.jpg?mtime=20200716164416&focal=none&tmtime=20200722114156)
 
